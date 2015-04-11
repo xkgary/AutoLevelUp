@@ -392,7 +392,7 @@ namespace AutoLevelup
             else if (Player.BaseSkinName == "Zyra") abilitySequence = new int[] { 3, 2, 1, 3, 1, 4, 3, 1, 3, 1, 4, 3, 1, 2, 2, 4, 2, 2 };
 
             Game.OnUpdate += Game_OnUpdate;
-            Game.PrintChat("<font color='#C80046'>AutoLevelup Updated by TimKroket</font>");
+            Game.PrintChat("<font color='#C80046'>SNEAKYYYYY</font>");
             Game.PrintChat(Player.BaseSkinName + tipo + " loaded");
         }
 
